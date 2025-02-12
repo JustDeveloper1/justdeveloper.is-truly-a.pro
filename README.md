@@ -1,2 +1,1 @@
-# justdeveloper.is-truly-a.pro
- 
+http://justdeveloper.is-truly-a.pro/
